@@ -1,0 +1,260 @@
+html{
+    background-color:#7B8EB2;}
+
+
+/* fonts */
+
+/* Index css */
+
+div{font-family: "Playfair Display SC", serif;
+    font-weight: 400;
+    font-style: normal;}
+
+#title{
+
+    width: 250;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+    background-color: #2F4858;
+    color:#DAF7DC
+    
+
+}
+
+#headshot{
+    float: left;
+    background-color:#336699;
+    width: 400px;
+    height: 800px;
+    padding-left: 10px;
+    padding-right:20px ;
+    padding-top:20px ;
+    padding-bottom:20px ;
+  
+}
+.menu{
+    font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: bold;
+  font-size: 50px;
+  color: #F1FAEE;
+}
+
+#menu{
+    width: 150px;
+    height:40px;
+    margin-top:-7%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 10px;
+}
+#info{
+    float: left;
+    background-color:#415A89;
+    color:#C4CEDF;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 800px;
+    height:300px;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+.colum{
+position: absolute;
+width: 200px;
+height:140%;
+background-color: #415A89;
+left: 90%;
+bottom:0%}
+
+.table1{
+    position: relative;
+    float:left;
+    width: 800px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: #336699;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+a{ font-size: 40px;
+word-spacing: 15px;
+color:#102d5a}
+
+/* hobbies */
+#table1_hobby{
+    margin-left:25%
+}
+
+#hobby_heading{
+    position: relative;
+    float: left;
+    width: 30vw;
+    height:10vh;
+    background-color: #c5d6ff;
+    margin-top: 5%;
+    margin-right:auto;
+    margin-left:35%;
+    margin-bottom: 7%;
+    border-style: dotted;
+    border-width: 10%;
+    
+}
+#hobby_heading_text{
+    width: 200px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    
+}
+
+#hobby_table {
+    position: relative;
+    width:60vw; 
+    padding: 20px;
+    height: auto;
+    background-color: #c5d6ff;
+    border-radius: 3%;
+    margin-top: 15%;
+    border-spacing: 5px;
+    margin-left: auto; 
+    margin-right: auto; 
+    border-spacing: 10px;
+}
+#hobby_table img {
+    width: 100%;
+    height: auto;
+    border-radius: 5%;}
+#hobby_table p{font-weight: bold;}
+
+
+
+/* Post college */
+#posthigh_table1{
+    margin-left: 25%;
+}
+
+#posthigh_banner{
+    position: relative;
+    float: left;
+    width: 30vw;
+    height:10vh;
+    background-color: #c5d6ff;
+    margin-top: 5%;
+    margin-right:auto;
+    margin-left:35%;
+    border-style: dashed;
+    border-width: 10%;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+    
+    
+}
+#container p{font-weight: bold;
+color: rgb(255, 255, 255);}
+#uhmanoa {
+    float: left; 
+    width: 25%; 
+    height: 500px;
+    background-color: #13184b;
+    margin:20px;
+    padding: 5px;
+}
+
+#uofr {
+    float: left; 
+    width: 25%; 
+    height: 500px;
+    background-color: #13184b;
+    margin:20px;
+    margin-left:20%;
+    padding: 5px;
+    margin-right:20%;
+}
+
+#jrotc {
+    float: left; 
+    width: 25%; 
+    height: 500px;
+    margin:20px;
+    padding: 5px;
+    background-color: #13184b;
+}
+
+
+#container {
+    position: relative;
+    top: 10%;
+    height: 600px;
+    width: 100%;
+    background-color: #d3def1;
+    display: flex; 
+    color:#d3def1;
+}
+#container li{margin:5px}
+
+/* why page */
+
+#why_banner{
+    position: relative;
+    float: left;
+    width: 30vw;
+    height:10vh;
+    background-color: #c5d6ff;
+    margin-top: 5%;
+    margin-right:auto;
+    margin-left:30%;
+    border-style: dashed;
+    border-width: 10%;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;}
+#why_banner span{margin-left: 20%;}
+#why_box{
+    position: relative;
+    width: 80%;
+}
+#div1 img {
+    
+    width: 80%;
+    height:auto;
+}
+#div1{
+    float: left;
+    width: 40%;
+    background-color: #13184b;
+    padding: 2%;
+    margin-left: 20px;
+    margin-right: 40px;
+    margin-top: 10px;
+    }
+
+#div2{
+    float:left;
+    width:40%;
+    background-color: #13184b;
+    padding: 2%;
+    color: #d3def1;
+    margin: 10px;
+
+}
+
+
+
